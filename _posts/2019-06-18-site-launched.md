@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Yayy! I launched my website!"
 date: 2019-06-18
 ---
 
